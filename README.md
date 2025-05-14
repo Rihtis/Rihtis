@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rihtis
 - 👀 I’m interested in python, AI and web app development
-- 🌱 I’m currently learning web apps and classification using AI
+- 🌱 I’m currently learning python and machine learning
 - 💞️ I’m currently just building stuff on my own 
 - 📫 How to reach me : not available atm.
 
